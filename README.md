@@ -8,7 +8,9 @@ Requires the *Fallout 4 Creation Kit*.
 
  This is a .cmd to automatize the packing of a mod made of loose files. Paste *create_ba2.cmd* in the folder of the mod you want to pack and double-click the batch file. The folder should contain at least a plugin file (.esp, .esm or .esl) and one or more folders containing files (*interface*, *materials*, *meshes*, *scripts*, *sound*, *strings*, *textures*).
 
-**You should check beforehand the files and the folder structure of your mod as (almost) nothing will be checked by the batch file**.
+**You should check beforehand the files and the folder structure of your mod as (almost) nothing will be checked by the batch file.**
+
+**After the .ba2 files are created, the original folders will be deleted.**
 
 ## Install
 
